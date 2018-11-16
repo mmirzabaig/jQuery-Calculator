@@ -1,0 +1,28 @@
+h1 {
+  color: rgb(124, 161, 171);
+  font-size: 80px;
+  padding: 30px 0 15px 0;
+}
+body {
+  background: black;
+  text-align: center;
+}
+
+button {
+  font-size: 50px;
+  width: 152px;
+  height: 140px;
+  border: 2px solid black;
+  background: -webkit-linear-gradient(top, #606c88 0%,#3f4c6b 100%);
+}
+input {
+  background: -webkit-linear-gradient(top, rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%);
+  font-size: 80px;
+  height: 120px;
+  width: 37%;
+  border: 2px solid black;
+}
+button:hover{
+  color: white;
+  background: -webkit-linear-gradient(top, rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(109,0,25,1) 100%);
+}
